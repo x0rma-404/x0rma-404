@@ -1,10 +1,5 @@
 # 💻 Hi there, I'm x0rma-404! 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=5500&pause=1000&color=A302F7&center=true&vCenter=true&width=700&height=70&lines=Hoohaa!+👋+I'm+x0rma;Baku Higher Oil School;Building+cool+things+on+GitHub" />
-</h1>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
 </p>
@@ -25,11 +20,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rma-404&layout=compact&theme=tokyonight&cache_seconds=86400" height="180" />
-</h1>
+[![x0rma-404 GitHub stats – Dark](https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/x0rma-404#gh-dark-mode-only)
+[![x0rma-404 GitHub stats – Light](https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/x0rma-404#gh-light-mode-only)
 
 ---
 
