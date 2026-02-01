@@ -4,33 +4,37 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
 </p>
 
-## 🏆 GitHub Achievements Showcase
-<p align="left">
-  <a href="https://github.com/x0rma-404">
-    <img src="https://github-profile-trophy.vercel.app/?username=x0rma-404&theme=onedark&column=4&margin-w=15&border_radius=10" alt="x0rma-404 trophies" />
-  </a>
+# 💻 Hi there, I'm x0rma-404! 👋
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
 </p>
 
-
-
-
-
+## 🏆 GitHub Achievements Showcase
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=x0rma-404&theme=onedark&column=4" alt="trophies" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 <p align="left">
-  <a href="https://github.com/x0rma-404/TechHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=x0rma-404&repo=TechHub&theme=tokyonight" />
-  </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x0rma-404&repo=TechHub&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📊 My GitHub Universe
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rma-404&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rma-404&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x0rma-404&theme=tokyonight" width="100%" />
 </p>
 
 ---
