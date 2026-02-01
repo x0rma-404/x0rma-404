@@ -15,15 +15,15 @@
 
 ## 🚀 Featured Project
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x0rma-404&repo=TechHub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x0rma-404&repo=TechHub&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rma-404&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x0rma-404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rma-404&layout=compact&theme=tokyonight&cache_seconds=86400" height="180" />
 </p>
 
 ---
