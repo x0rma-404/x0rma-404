@@ -22,7 +22,7 @@
 
 • 🌱 Currently learning **Java, Python & Machine Learning** • 🚀 Consistent, motivated & passionate about intelligent systems  
 • 📗 Learning through **hands-on projects & real-world AI experiments** • 🔥 Python Developer | Data Analyst | ML Learner  
-• 📫 Reach me at: <strong>hamidmammdzada.std@bhos.edu.az</strong>
+• 📫 Reach me at: <strong>hamidmammadzada.std@bhos.edu.az</strong>
 
 <br>
 <br>
